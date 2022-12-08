@@ -1,0 +1,45 @@
+[33mcommit 56858d7ede78ade100006b8007d5a2711c8d82f7[m[33m ([m[1;36mHEAD -> [m[1;32mMain[m[33m)[m
+Author: isabel <isagtomasini@gmail.com>
+Date:   Wed Dec 7 18:53:15 2022 -0600
+
+    Adding updated files and folders
+
+[33mcommit d8150715787a886367e2c3ddfa375247022d281f[m[33m ([m[1;31morigin/Main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Isabel Garrido Tomasini <111388644+Isabel-gt@users.noreply.github.com>
+Date:   Wed Dec 7 15:03:44 2022 -0600
+
+    Update README.md
+    
+    Adding a description
+
+[33mcommit f3cb1e67feab0cc5adf260b80a201d20e85f1514[m
+Author: Isabel Garrido Tomasini <111388644+Isabel-gt@users.noreply.github.com>
+Date:   Wed Dec 7 14:59:54 2022 -0600
+
+    Delete data.js
+    
+    Deleting extra file
+
+[33mcommit 3e83981878c90f8024b644186d4366b13ab44d89[m
+Author: Isabel Garrido Tomasini <111388644+Isabel-gt@users.noreply.github.com>
+Date:   Wed Dec 7 14:59:42 2022 -0600
+
+    Delete samples.json
+    
+    Deleting extra file
+
+[33mcommit 11ee2ebc5dad296e8ef10ba6970728b708950bba[m
+Author: Isabel Garrido Tomasini <111388644+Isabel-gt@users.noreply.github.com>
+Date:   Wed Dec 7 14:59:16 2022 -0600
+
+    Delete plot.js
+    
+    Deleting extra file
+
+[33mcommit b922533441d13037839c51cd85e46471a0ea6aef[m
+Author: Isabel Garrido Tomasini <111388644+Isabel-gt@users.noreply.github.com>
+Date:   Wed Dec 7 14:59:03 2022 -0600
+
+    Delete index.html
+    
+    Deleting extra file
