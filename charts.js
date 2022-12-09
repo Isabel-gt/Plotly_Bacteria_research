@@ -132,7 +132,7 @@ function buildCharts(sample) {
       y: samplevalues,
       text: otulabels,
       mode: "markers",
-      maker: {
+      marker: {
         size: samplevalues,
         color: otuids,
         colorscale: 'YlGnBu'
